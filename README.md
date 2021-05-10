@@ -3,7 +3,8 @@ This script withdraw  the reward and commission after that immediately delegate 
 # Requirements
 ubuntu 18.0.4+
 
-Jq 
+installed Jq 
 
-sudo apt-get update
-sudo apt install jq
+```shell
+sudo apt-get update & sudo apt install jq
+```
